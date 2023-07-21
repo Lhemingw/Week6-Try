@@ -105,7 +105,7 @@ console.log("player1 ", game.player1.getScore());
 console.log("player2 ", game.player2.getScore());
 //console.log("tie hand");
 
-//hows score is higher 3 if statement game.player1.getscore, and etc for player2 and ==
+//Who's score is higher 3 if statement game.player1.getscore, and etc for player2 and ==
 if (game.player1.getScore() > game.player2.getScore()) {
   console.log("player 1 won");
  }
